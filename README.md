@@ -13,6 +13,8 @@ Foram utilizadas as seguintes tecnologias:
 # Andando a milha extra
 Além do que foi passado no tutorial, também resolvi incrementar para aprender um pouco mais. As principais alterações foram a adição do chat, adição de todos os ícones faltantes no menu e um campo para visualizar os itens salvos.
 
+[Clique aqui para ver o site](https://clone-ui-linkedin.netlify.app/)
+
 # Executando o projeto
 ## Utilizando npm
 1. instale as dependências:
